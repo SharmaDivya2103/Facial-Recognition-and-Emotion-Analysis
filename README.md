@@ -6,5 +6,5 @@ I have made the following progress on my project till now:
 4. I came across forward propagation and back propagations along with their derivation and also learnt about the vaious functions such as activation function, cost function, softmax function, max pooling function and multi-class classification.
 5. I also learnt how to train an LSTM model to predict emojis on the basis of input sentences.
 6. Then i studied OpenCV for image manipulation for computer vision.
-7. After all this, i completed an assignment based on digit recognition using CNN which was shared by my mentor.
+7. After all this, i completed an assignment based on digit recognition using CNN (Code attached as DigitRecogniser.ipynb) which was shared by my mentor.
 8. Currently i am going through an article on facial recognition strategy.
