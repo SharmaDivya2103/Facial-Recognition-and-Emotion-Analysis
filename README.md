@@ -1,4 +1,4 @@
-In this project i would be implementing Facial Recognition and Emotion Analysis using neural networks and libraries such as Pandas, NymPy, Tensorflow, Keras etc.
+DIGIT RECOGNISER In this project i would be implementing Facial Recognition and Emotion Analysis using neural networks and libraries such as Pandas, NymPy, Tensorflow, Keras etc.
 I have made the following progress on my project till now:
 1. I began my learning journey by understanding the fundamentals of libraries like Pandas, NumPy, Matplotlib etc.
 2. Then i began learning PyTorch for tensors and their operations..
